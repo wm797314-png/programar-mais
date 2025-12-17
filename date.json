@@ -1,0 +1,234 @@
+[
+{
+    "nome": "JavaScript",
+    "descricao": "O JS é a linguagem da web.",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+},
+{
+    "nome": "python",
+    "descricao": "🐍 É uma linguagem popular para ciência de dados, desenvolvimento web e automação.",
+    "ano": 1991,
+    "link": "https://docs.python.org/3/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+},
+{
+    "nome": "Java",
+    "descricao": "Linguagem robusta e multiplataforma, muito usada em sistemas corporativos e aplicativos Android",
+    "ano": 1995,
+    "link": "https://docs.oracle.com/en/java/javase/17/docs/api/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+},
+{
+    "nome": "C#",
+    "descricao": "Linguagem moderna e orientada a objetos, desenvolvida pela Microsoft para a plataforma .NET. ",
+    "ano": 2000,
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+},
+{
+    "nome": "TypeScript",
+    "descricao": "Um superconjunto do JavaScript que adiciona tipagem estática opcional para criar aplicações mais robustas. ",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/docs/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+},
+{
+    "nome": "Go",
+    "descricao": "Linguagem compilada do Google, focada em simplicidade, desempenho e concorrência. ",
+    "ano": 2009,
+    "link": "https://go.dev/doc/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+},
+{
+    "nome": "PHP",
+    "descricao": "Amplamente utilizada para desenvolvimento web do lado do servidor, permitindo criar sites dinâmicos e interativos.",
+    "ano": 1995,
+    "link": "https://www.php.net/docs.php",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+},
+{
+    "nome": "Ruby",
+    "descricao": "Conhecida por sua sintaxe elegante e produtividade, popularizada pelo framework para web Ruby on Rails.",
+    "ano": 1995,
+    "link": "https://www.ruby-lang.org/pt/documentation/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
+},
+{
+    "nome": "Swift",
+    "descricao": "Criada pela Apple para desenvolver aplicativos para iOS, macOS, watchOS e tvOS de forma rápida e segura.",
+    "ano": 2014,
+    "link": "https://developer.apple.com/swift/documentation/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
+},
+{
+    "nome": "Kotlin",
+    "descricao": "Linguagem moderna que roda na JVM, é a linguagem preferida do Google para desenvolvimento de aplicativos Android.",
+    "ano": 2011,
+    "link": "https://kotlinlang.org/docs/home.html",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
+},
+{
+    "nome": "Rust",
+    "descricao": "Focada em segurança de memória e desempenho, ideal para sistemas de baixo nível, como motores de jogos e sistemas operacionais.",
+    "ano": 2010,
+    "link": "https://www.rust-lang.org/learn",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"
+},
+{
+    "nome": "C++",
+    "descricao": "Uma extensão da linguagem C, é poderosa e usada em softwares de alta performance, como jogos, sistemas embarcados e aplicações financeiras.",
+    "ano": 1985,
+    "link": "https://isocpp.org/documentation",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+},
+{
+    "nome": "C",
+    "descricao": "Uma das linguagens mais antigas e influentes, base para muitas outras linguagens e usada em sistemas operacionais e software de sistema.",
+    "ano": 1972,
+    "link": "https://devdocs.io/c/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+},
+{
+    "nome": "SQL",
+    "descricao": "Linguagem de consulta estruturada, essencial para gerenciar e consultar dados em bancos de dados relacionais.",
+    "ano": 1974,
+    "link": "https://dev.mysql.com/doc/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+},
+{
+    "nome": "R",
+    "descricao": "Linguagem e ambiente para computação estatística e gráficos, muito popular entre estatísticos e analistas de dados.",
+    "ano": 1993,
+    "link": "https://www.r-project.org/other-docs.html",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+},
+{
+    "nome": "Dart",
+    "descricao": "Criada pelo Google e otimizada para construir interfaces de usuário para web, mobile e desktop com o framework Flutter.",
+    "ano": 2011,
+    "link": "https://dart.dev/guides",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+},
+{
+    "nome": "Lua",
+    "descricao": "Linguagem de script leve e extensível, frequentemente usada em desenvolvimento de jogos e aplicações embarcadas.",
+    "ano": 1993,
+    "link": "https://www.lua.org/docs.html",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"
+},
+{
+    "nome": "HTML5",
+    "descricao": "A linguagem de marcação padrão para criar páginas e aplicações web.",
+    "ano": 1993,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+},
+{
+    "nome": "CSS3",
+    "descricao": "A linguagem de folhas de estilo usada para descrever a apresentação de um documento escrito em HTML.",
+    "ano": 1996,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+},
+{
+    "nome": "Shell Script",
+    "descricao": "Linguagem de script para automação de tarefas e gerenciamento de sistemas em ambientes Unix/Linux.",
+    "ano": 1971,
+    "link": "https://www.gnu.org/software/bash/manual/bash.html",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+},
+{
+    "nome": "PowerShell",
+    "descricao": "Shell de linha de comando e linguagem de script da Microsoft para automação de tarefas e gerenciamento de configuração.",
+    "ano": 2006,
+    "link": "https://learn.microsoft.com/pt-br/powershell/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg"
+},
+{
+    "nome": "Scala",
+    "descricao": "Combina programação orientada a objetos e funcional em uma linguagem concisa que roda na JVM.",
+    "ano": 2004,
+    "link": "https://docs.scala-lang.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"
+},
+{
+    "nome": "Haskell",
+    "descricao": "Uma linguagem de programação puramente funcional, com tipagem estática e avaliação preguiçosa (lazy evaluation).",
+    "ano": 1990,
+    "link": "https://www.haskell.org/documentation/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"
+},
+{
+    "nome": "Perl",
+    "descricao": "Uma linguagem de script versátil, conhecida por sua poderosa capacidade de processamento de texto e expressões regulares.",
+    "ano": 1987,
+    "link": "https://www.perl.org/docs.html",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg"
+},
+{
+    "nome": "Objective-C",
+    "descricao": "Linguagem orientada a objetos que foi a principal linguagem de programação para os sistemas da Apple antes do Swift.",
+    "ano": 1984,
+    "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg"
+},
+{
+    "nome": "Groovy",
+    "descricao": "Linguagem dinâmica e opcionalmente tipada para a plataforma Java, usada para scripts, testes e automação (como no Gradle).",
+    "ano": 2003,
+    "link": "https://groovy-lang.org/documentation.html",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"
+},
+{
+    "nome": "Elixir",
+    "descricao": "Linguagem funcional, concorrente e dinâmica, construída sobre a máquina virtual Erlang (BEAM), ideal para sistemas escaláveis.",
+    "ano": 2012,
+    "link": "https://elixir-lang.org/docs.html",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg"
+},
+{
+    "nome": "Clojure",
+    "descricao": "Um dialeto moderno da linguagem Lisp que roda na JVM, focado em programação funcional e desenvolvimento concorrente.",
+    "ano": 2007,
+    "link": "https://clojure.org/guides/getting_started",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg"
+},
+{
+    "nome": "Julia",
+    "descricao": "Linguagem de alto desempenho para computação técnica e científica, com uma sintaxe amigável e velocidade comparável a linguagens como C.",
+    "ano": 2012,
+    "link": "https://docs.julialang.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg"
+},
+{
+    "nome": "Zig",
+    "descricao": "Uma linguagem de programação de sistemas moderna que visa simplicidade, otimização e segurança, sendo uma alternativa ao C.",
+    "ano": 2016,
+    "link": "https://ziglang.org/documentation/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg"
+},
+{
+    "nome": "Elm",
+    "descricao": "Linguagem funcional para criar aplicações web front-end. Compila para JavaScript e é famosa por não gerar erros em tempo de execução.",
+    "ano": 2012,
+    "link": "https://guide.elm-lang.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg"
+},
+{
+    "nome": "Crystal",
+    "descricao": "Linguagem compilada com tipagem estática, que busca ter uma sintaxe similar à do Ruby com a performance de C.",
+    "ano": 2014,
+    "link": "https://crystal-lang.org/reference/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/crystal/crystal-original.svg"
+},
+{
+    "nome": "COBOL",
+    "descricao": "Uma das linguagens de programação mais antigas, ainda crucial em sistemas legados de grande porte, como mainframes em bancos e governos.",
+    "ano": 1959,
+    "link": "https://www.ibm.com/docs/en/cobol-zos/6.4",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg"
+}
+
+]
