@@ -229,6 +229,78 @@
     "ano": 1959,
     "link": "https://www.ibm.com/docs/en/cobol-zos/6.4",
     "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg"
+},
+    {
+    "nome": "Visual Basic",
+    "descricao": "Linguagem orientada a eventos da Microsoft, famosa por sua facilidade em criar aplicações Windows.",
+    "ano": 1991,
+    "link": "https://learn.microsoft.com/dotnet/visual-basic/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg"
+},
+{
+    "nome": "Delphi",
+    "descricao": "Ambiente de desenvolvimento e linguagem baseada em Object Pascal, conhecida por compilação rápida.",
+    "ano": 1995,
+    "link": "https://www.embarcadero.com/products/delphi",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg"
+},
+{
+    "nome": "D",
+    "descricao": "Linguagem de sistemas com sintaxe C-like, focada em combinar desempenho e produtividade.",
+    "ano": 2001,
+    "link": "https://dlang.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d/d-original.svg"
+},
+{
+    "nome": "Haxe",
+    "descricao": "Linguagem toolkit multiplataforma que compila para JavaScript, C++, C#, Java, Python, entre outras.",
+    "ano": 2005,
+    "link": "https://haxe.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg"
+},
+{
+    "nome": "OCaml",
+    "descricao": "Linguagem funcional com um sistema de tipos forte e inferência de tipos, usada em ambientes acadêmicos e industriais.",
+    "ano": 1996,
+    "link": "https://ocaml.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg"
+},
+{
+    "nome": "Nix",
+    "descricao": "Linguagem puramente funcional projetada para o gerenciamento de pacotes e configuração de sistemas NixOS.",
+    "ano": 2003,
+    "link": "https://nixos.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg"
+},
+{
+    "nome": "Vim Script",
+    "descricao": "Linguagem de script usada para estender e configurar o editor de texto Vim.",
+    "ano": 1991,
+    "link": "https://www.vim.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
+},
+{
+    "nome": "CMake",
+    "descricao": "Linguagem de script para gerenciar o processo de compilação de software de forma independente de compilador.",
+    "ano": 2000,
+    "link": "https://cmake.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"
+},
+{
+    "nome": "Sass",
+    "descricao": "Linguagem de extensão de CSS (pré-processador) que adiciona variáveis, regras aninhadas e mixins.",
+    "ano": 2006,
+    "link": "https://sass-lang.com/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+},
+{
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs, permitindo que clientes solicitem exatamente os dados de que precisam.",
+    "ano": 2015,
+    "link": "https://graphql.org/",
+    "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
 }
+
+
 
 ]
